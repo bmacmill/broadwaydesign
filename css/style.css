@@ -9,6 +9,14 @@ header {
   background-position: center;
 }
 
+.container {
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+
 h1 {
   font-weight: bold;
   font-size: 70px;
